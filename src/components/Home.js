@@ -33,23 +33,26 @@ const Home = () => {
         <div class="carousel-inner">
           <div class="carousel-item active">
             <img
-              src="/assets/images/watch1.jpg"
+              src="/assets/images/watch1.png"
               class="d-block w-100"
               alt="Maserati Automatic"
+              height="800px"
             />
           </div>
           <div class="carousel-item">
             <img
-              src="/assets/images/watch2.jpg"
+              src="/assets/images/watch2.png"
               class="d-block w-100"
               alt="Maserati Triconic"
+              height="800px"
             />
           </div>
           <div class="carousel-item">
             <img
-              src="/assets/images/watch3.jpg"
+              src="/assets/images/watch3.png"
               class="d-block w-100"
               alt="Bvlgari"
+              height="800px"
             />
           </div>
         </div>
