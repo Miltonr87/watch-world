@@ -36,7 +36,7 @@ const Home = () => {
               src="/assets/images/watch1.png"
               class="d-block w-100"
               alt="Maserati Automatic"
-              height="800px"
+              height="550px"
             />
           </div>
           <div class="carousel-item">
@@ -44,7 +44,7 @@ const Home = () => {
               src="/assets/images/watch2.png"
               class="d-block w-100"
               alt="Maserati Triconic"
-              height="800px"
+              height="550px"
             />
           </div>
           <div class="carousel-item">
@@ -52,7 +52,7 @@ const Home = () => {
               src="/assets/images/watch3.png"
               class="d-block w-100"
               alt="Bvlgari"
-              height="800px"
+              height="550px"
             />
           </div>
         </div>
