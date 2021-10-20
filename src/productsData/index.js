@@ -11,7 +11,7 @@ const DATA = [
     title: "Maserati Triconic",
     price: 800,
     desc: "In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor",
-    img: "assets/images/products/p2.png",
+    img: "assets/images/watch2.png",
   },
   {
     id: 1,
